@@ -1,9 +1,10 @@
 import "./App.css";
+import InputTask from "./components/inputtask";
 
 function App() {
   return (
     <div className="App">
-      <h1>Helloo....</h1>
+      <InputTask />
     </div>
   );
 }
